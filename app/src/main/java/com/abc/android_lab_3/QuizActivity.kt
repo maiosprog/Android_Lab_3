@@ -23,7 +23,7 @@ class QuizActivity : AppCompatActivity() {
 
     fun onStart(s: String?) {
         super.onStart()
-        Log.d(TAG, "********onStart() called********")
+        Log.d(TAG, "******onStart() called*******")
     }
 
     public override fun onStart() {
